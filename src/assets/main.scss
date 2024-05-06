@@ -1,0 +1,15 @@
+@import './base.css';
+@import "bootstrap/scss/bootstrap";
+
+@import './base.css';
+@import "bootstrap/scss/bootstrap";
+
+.img-size {
+  max-width: 280px;
+}
+
+.icon-size {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
